@@ -14,7 +14,8 @@
 % We add noradrenaline and acetylcholine neuromodulators as flags to switch
 % the spiking activity between bursting and regular spiking.
 % -------------------------------------------------------------------------
-% This work has been presented as a poster in the SNUFA Conference 2024.
+% This work has been presented as a flash talk and poster at the SNUFA 
+% Conference 2024.
 % Citation: Rodriguez-Garcia A, Ramaswamy S (2024). Adaptive learning with 
 % neuromodulation-aware spiking neural networks. SNUFA Conference 2024.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

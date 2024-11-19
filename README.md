@@ -128,7 +128,7 @@ In biological terms, this mechanism aligns with how high arousal triggers rapid 
 
 
 # Citation
-This work has been presented at the SNUFA Conference 2024 (Youtube: [SNUFA 2024 Flash Talks](https://www.youtube.com/watch?v=o6kT44elYNk&t=10s)).
+This work has been presented at the SNUFA Conference 2024 as a poster and a flash talk (Youtube: [SNUFA 2024 Flash Talks](https://www.youtube.com/watch?v=o6kT44elYNk&t=10s)).
 
 Rodriguez-Garcia A, Ramaswamy S (2024). *Adaptive learning with neuromodulation-aware spiking neural networks*. SNUFA Conference 2024. 
 
